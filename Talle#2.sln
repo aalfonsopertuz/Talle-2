@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talle#2", "Talle#2\Talle#2.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Diagrama", "Diagrama", "{AF3D7485-4F8D-40C2-9F78-DEBB6588F720}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Downloads\Diagrama de Clases Taller #2.drawio.png = ..\..\..\Downloads\Diagrama de Clases Taller #2.drawio.png
+		..\..\..\Downloads\Diagrama de Clases Taller #2.png = ..\..\..\Downloads\Diagrama de Clases Taller #2.png
 	EndProjectSection
 EndProject
 Global
